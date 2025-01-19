@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.app-container {
+    min-height: 350px;
+}
+
+.login-screen .nav-header {
+    background: rgb(17 24 39 / var(--tw-bg-opacity))
+}
+
+.navigation .active {
+    background-color: aliceblue;
+    color: #000;
+}
